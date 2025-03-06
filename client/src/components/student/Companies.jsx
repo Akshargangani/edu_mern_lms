@@ -17,4 +17,4 @@ const Companies = () => {
   )
 }
 
-export default Companies
+export default Companies  
